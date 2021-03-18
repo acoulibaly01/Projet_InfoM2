@@ -2,7 +2,7 @@ import javax.swing.* ;
 import java.awt.* ;
 class MaFenetre extends JFrame
 { MaFenetre ()
-  { setTitle ("Dessin Atelier") ;
+  { setTitle ("Dessin Atelier Fabrication") ;
     setSize (600, 400) ;
     setLocation(200,50);
     zoneGraphique = new Paneau() ;
