@@ -9,5 +9,7 @@
  * @author Amadou Coulibaly
  */
 public class Noeud {
-    
+   String idNoeud;
+   double abscisse;
+   double ordonnee;
 }
